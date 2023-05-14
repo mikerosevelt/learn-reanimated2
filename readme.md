@@ -5,3 +5,4 @@
 - Interpolate Scroll View
 - Rotate
 - Pinch Gesture (eg: Zooming an image)
+- Double Tap (eg: instagram likes)
