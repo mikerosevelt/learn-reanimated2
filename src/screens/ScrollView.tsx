@@ -1,5 +1,5 @@
-import { StyleSheet, View, Text } from 'react-native';
-import PageScrollView, { PAGE_WIDTH } from './src/components/PageScrollView';
+import { StyleSheet, View } from 'react-native';
+import PageScrollView, { PAGE_WIDTH } from '../components/PageScrollView';
 import {
   PanGestureHandler,
   PanGestureHandlerGestureEvent
