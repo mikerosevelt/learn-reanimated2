@@ -7,3 +7,4 @@
 - Pinch Gesture (eg: Zooming an image)
 - Double Tap (eg: Instagram likes)
 - Scroll View
+- Color picker
