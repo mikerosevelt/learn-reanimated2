@@ -8,3 +8,4 @@
 - Double Tap (eg: Instagram likes)
 - Scroll View
 - Color picker
+- Circlular Progress
