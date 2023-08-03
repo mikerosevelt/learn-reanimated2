@@ -1,7 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
 import { useCallback, useRef, useState } from 'react';
 import { StyleSheet, View, Text } from 'react-native';
-import ListItem from './src/components/ListItem';
+import ListItem from '../components/ListItem';
 import { ScrollView } from 'react-native-gesture-handler';
 
 const TITLES = [

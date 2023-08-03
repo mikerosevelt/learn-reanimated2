@@ -9,3 +9,4 @@
 - Scroll View
 - Color picker
 - Circlular Progress
+- Swipe to Delete
