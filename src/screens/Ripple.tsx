@@ -1,5 +1,5 @@
 import { StyleSheet, View, Text } from 'react-native';
-import Ripple from './src/components/Ripple';
+import Ripple from '../components/Ripple';
 
 export default function App() {
   return (

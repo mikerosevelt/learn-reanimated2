@@ -1,6 +1,6 @@
 import { Dimensions, StyleSheet, Text, View } from 'react-native';
 import React from 'react';
-import { TaskInterface } from '../../App';
+import { TaskInterface } from '../screens/SwipeToDelete';
 import {
   PanGestureHandler,
   PanGestureHandlerGestureEvent,
