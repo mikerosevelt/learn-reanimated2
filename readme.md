@@ -11,3 +11,4 @@
 - Circlular Progress
 - Swipe to Delete
 - Ripple
+- Perspective Menu
